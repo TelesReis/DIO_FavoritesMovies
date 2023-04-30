@@ -1,4 +1,4 @@
-<h1>**Pequeno projeto para um desafio avançado da DIO**</h1>
+**<h1>Pequeno projeto para um desafio avançado da DIO</h1>**
 
 <h4>Este consite em mostrar meus filmes favoritos que estão na AWS DynamoDB através da AWS CLI</h4>
 
