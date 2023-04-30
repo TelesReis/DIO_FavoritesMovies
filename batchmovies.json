@@ -1,0 +1,44 @@
+{
+    "FavoriteMovies": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Director": {"S": "Kurt Wimmer"},
+                  "Gender": {"S": "Suspense"},
+                  "Movie": {"S": "Equilibrium"},
+                  "ReleaseYear": {"S": "2003"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Director": {"S": "Andrzej Bartkowiak"},
+                  "Gender": {"S": "Ficção Científica"},
+                  "Movie": {"S": "DOOM : A porta do Inferno"},
+                  "ReleaseYear": {"S": "2005"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Director": {"S": "Lana Wachowski"},
+                  "Gender": {"S": "Ação"},
+                  "Movie": {"S": "Matrix"},
+                  "ReleaseYear": {"S": "1994"}
+                }
+            }
+        },
+		{
+            "PutRequest": {
+                "Item": {
+                  "Director": {"S": "Frnacis Lowrence"},
+                  "Gender": {"S": "Fantasia"},
+                  "Movie": {"S": "Constantine"},
+                  "ReleaseYear": {"S": "2005"}
+                }
+            }
+        }
+      ]
+}
